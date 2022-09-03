@@ -15,6 +15,11 @@ namespace ShopManagement.Application
             _ProductCategoryRepository = productCategoryRepository;
         }
 
+        public List<ProductCategoryViewModel> GetProductCategories()
+        {
+            return _ProductCategoryRepository.GetProductCategories();
+        }
+
         public OperationResult Create(CreateProductCategory command)
         {
             var Operation = new OperationResult();
