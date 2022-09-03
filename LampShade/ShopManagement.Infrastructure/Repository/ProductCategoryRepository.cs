@@ -19,7 +19,7 @@ namespace ShopManagement.Infrastructure.Repository
 
         public List<ProductCategoryViewModel> GetProductCategories()
         {
-            return _Context.ProductCategories.Select(x=>new ProductCategoryViewModel
+            return _Context.ProductCategories.Select(x => new ProductCategoryViewModel
             {
                 Id=x.Id,
                 Name=x.Name
