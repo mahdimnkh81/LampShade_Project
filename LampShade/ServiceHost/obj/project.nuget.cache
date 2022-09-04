@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k+PDnpqrnZdEU8sLS2Y1xuTgQMP603xM0XaX7YDMG8gEgoLyglAZtDIYnBvbBDioq3a5bfkxcADhEe03x5XRSA==",
+  "dgSpecHash": "JVkroC4wfbhbKLqw04Baa03R0CS9t30hIW2NE59KuRskQr59qfYTPez+mlAkf6h7uXxzL1AlYxhV5aPqJuVW8A==",
   "success": true,
-  "projectFilePath": "D:\\.NetCore\\LampShade\\LampShade\\ServiceHost\\ServiceHost.csproj",
+  "projectFilePath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\ServiceHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

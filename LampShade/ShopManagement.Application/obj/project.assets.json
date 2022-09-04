@@ -588,11 +588,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Application\\ShopManagement.Application.csproj",
+      "projectUniqueName": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Application\\ShopManagement.Application.csproj",
       "projectName": "ShopManagement.Application",
-      "projectPath": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Application\\ShopManagement.Application.csproj",
+      "projectPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Application\\ShopManagement.Application.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Application\\obj\\",
+      "outputPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -609,11 +609,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-              "projectPath": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+            "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+              "projectPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
             },
-            "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
-              "projectPath": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+            "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+              "projectPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
             }
           }
         }

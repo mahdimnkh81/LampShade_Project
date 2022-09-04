@@ -60,17 +60,25 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                     CategoryId = x.CategoryId,
                     Code = x.Code,
                     Picture = x.Picture,
-                    CreationDate = x.CreationDate.ToString()
+                    CreationDate = x.CreationDate.ToString(),
+                    IsInStock = x.IsInStock,
+                    UniPrice = x.UniPrice
                 });
 
             if (!string.IsNullOrWhiteSpace(searchModel.Name))
+            {
                 query = query.Where(x => x.Name.Contains(searchModel.Name));
+            }
 
             if (!string.IsNullOrWhiteSpace(searchModel.Code))
+            {
                 query = query.Where(x => x.Code.Contains(searchModel.Code));
+            }
 
             if (searchModel.CategoryId != 0)
+            {
                 query = query.Where(x => x.CategoryId == searchModel.CategoryId);
+            }
 
             return query.OrderByDescending(x => x.Id).ToList();
         }

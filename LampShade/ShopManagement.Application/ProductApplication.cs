@@ -20,6 +20,22 @@ namespace ShopManagement.Application
             _productCategoryRepository = productCategoryRepository;
         }
 
+        public OperationResult NotInStock(long id)
+        {
+            var product = _productRepository.Get(id);
+            var op=product.NOTInStock();
+            _productRepository.SaveChanges();
+            return op;
+        }
+
+        public OperationResult ISInStock(long id)
+        {
+            var product = _productRepository.Get(id);
+            var op = product.InStock();
+            _productRepository.SaveChanges();
+            return op;
+        }
+
         public OperationResult Create(CreateProduct command)
         {
             var operation = new OperationResult();

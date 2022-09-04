@@ -569,11 +569,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
+      "projectUniqueName": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
       "projectName": "ShopManagement.Domain",
-      "projectPath": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
+      "projectPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Domain\\obj\\",
+      "outputPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -590,8 +590,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-              "projectPath": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+            "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+              "projectPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
             }
           }
         }

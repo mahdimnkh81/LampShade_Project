@@ -1947,11 +1947,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NetCore\\LampShade\\LampShade\\ServiceHost\\ServiceHost.csproj",
+      "projectUniqueName": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\ServiceHost.csproj",
       "projectName": "ServiceHost",
-      "projectPath": "D:\\.NetCore\\LampShade\\LampShade\\ServiceHost\\ServiceHost.csproj",
+      "projectPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\ServiceHost.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\.NetCore\\LampShade\\LampShade\\ServiceHost\\obj\\",
+      "outputPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1968,8 +1968,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj": {
-              "projectPath": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj"
+            "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj": {
+              "projectPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj"
             }
           }
         }

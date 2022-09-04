@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O8KkNBKBPPx6VLD7i3aVkt8mlL7HsWW3TOPPYghsrNSXCxwkiWNzA6Ga/D2ROwlXk6mfDdOiQdPVoxZv+Q6sjA==",
+  "dgSpecHash": "Bc/SfCpCU+ozKBqHyN0bEVrSoD8wpw/FniPSSOAI3srqaco83VYRIb8Ew6tzykUZdgex/RuK1VACxvdYoaG4NQ==",
   "success": true,
-  "projectFilePath": "D:\\.NetCore\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj",
+  "projectFilePath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\0_Framework\\0_Framework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.8\\microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",

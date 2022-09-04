@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PBzKdnfPhu5vxvPd7pdKFPi5oY+dndjQokzi1fcmQ+CkFVyO2b7R3iWpHmNB4K+43Wq6df175Zv3YO0DhYkfpA==",
+  "dgSpecHash": "U8vvUb7qXvlBq+K5O5LHL9gaZnV1/SHsEgZsZcQBlAFEa3M+3hjwKTeLPy0mglJfx3ZG/7O4P7B7C3fi5Z4jhg==",
   "success": true,
-  "projectFilePath": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Infrastructure\\ShopManagement.Infrastructure.csproj",
+  "projectFilePath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Infrastructure\\ShopManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1926,11 +1926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Infrastructure\\ShopManagement.Infrastructure.csproj",
+      "projectUniqueName": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Infrastructure\\ShopManagement.Infrastructure.csproj",
       "projectName": "ShopManagement.Infrastructure",
-      "projectPath": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Infrastructure\\ShopManagement.Infrastructure.csproj",
+      "projectPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Infrastructure\\ShopManagement.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Infrastructure\\obj\\",
+      "outputPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1947,11 +1947,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\.NetCore\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj": {
-              "projectPath": "D:\\.NetCore\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj"
+            "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\0_Framework\\0_Framework.csproj": {
+              "projectPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\0_Framework\\0_Framework.csproj"
             },
-            "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
-              "projectPath": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+            "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+              "projectPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
             }
           }
         }

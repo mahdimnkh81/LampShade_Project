@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7aDwFtAhVSP94ZX7S0sxvyTaR23ylvq7uETilUYddhP3j2frVr2eZQDUucasLFXVUfIXjxcnJZmXrW1/1It6lw==",
+  "dgSpecHash": "GdlV7M39QrGu31CBEWbHtfItlj1NQuSGup7fy2TIFDusyssUnRyok1ADUdnOQlrBw47GW8xzNtVBJccXtq2Jiw==",
   "success": true,
-  "projectFilePath": "D:\\.NetCore\\LampShade\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
+  "projectFilePath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
