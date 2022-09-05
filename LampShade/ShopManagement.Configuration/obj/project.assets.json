@@ -598,6 +598,19 @@
           }
         }
       },
+      "01-LampShadeQuery/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ShopManagement.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/01-LampShadeQuery.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/01-LampShadeQuery.dll": {}
+        }
+      },
       "0_Framework/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1832,6 +1845,11 @@
         "version.txt"
       ]
     },
+    "01-LampShadeQuery/1.0.0": {
+      "type": "project",
+      "path": "../01-LampShadeQuery/01-LampShadeQuery.csproj",
+      "msbuildProject": "../01-LampShadeQuery/01-LampShadeQuery.csproj"
+    },
     "0_Framework/1.0.0": {
       "type": "project",
       "path": "../0_Framework/0_Framework.csproj",
@@ -1860,6 +1878,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "01-LampShadeQuery >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 6.0.0",
       "ShopManagement.Application >= 1.0.0",
       "ShopManagement.Domain >= 1.0.0",
@@ -1893,6 +1912,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\01-LampShadeQuery\\01-LampShadeQuery.csproj": {
+              "projectPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\01-LampShadeQuery\\01-LampShadeQuery.csproj"
+            },
             "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Application\\ShopManagement.Application.csproj": {
               "projectPath": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ShopManagement.Application\\ShopManagement.Application.csproj"
             },

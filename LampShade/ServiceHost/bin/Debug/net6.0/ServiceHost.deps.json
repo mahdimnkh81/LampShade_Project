@@ -427,6 +427,14 @@
           }
         }
       },
+      "01-LampShadeQuery/1.0.0": {
+        "dependencies": {
+          "ShopManagement.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "01-LampShadeQuery.dll": {}
+        }
+      },
       "0_Framework/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.8"
@@ -454,6 +462,7 @@
       },
       "ShopManagement.Configuration/1.0.0": {
         "dependencies": {
+          "01-LampShadeQuery": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
           "ShopManagement.Application": "1.0.0",
           "ShopManagement.Domain": "1.0.0",
@@ -783,6 +792,11 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
+    },
+    "01-LampShadeQuery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "0_Framework/1.0.0": {
       "type": "project",

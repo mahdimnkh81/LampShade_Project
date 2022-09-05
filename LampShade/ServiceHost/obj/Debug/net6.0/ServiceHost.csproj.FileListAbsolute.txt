@@ -146,3 +146,5 @@ D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\obj\Debug\net6.0\r
 D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\obj\Debug\net6.0\ServiceHost.pdb
 D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\obj\Debug\net6.0\ServiceHost.genruntimeconfig.cache
 D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\obj\Debug\net6.0\ref\ServiceHost.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\01-LampShadeQuery.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\01-LampShadeQuery.pdb

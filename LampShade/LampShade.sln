@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagement.Configuratio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceHost", "ServiceHost\ServiceHost.csproj", "{0B8C386C-6166-4207-979E-C88EDCAE77EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-LampShadeQuery", "01-LampShadeQuery\01-LampShadeQuery.csproj", "{E8FB2C11-7925-45D9-AF49-0D3C89A7C689}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{0B8C386C-6166-4207-979E-C88EDCAE77EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B8C386C-6166-4207-979E-C88EDCAE77EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B8C386C-6166-4207-979E-C88EDCAE77EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8FB2C11-7925-45D9-AF49-0D3C89A7C689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8FB2C11-7925-45D9-AF49-0D3C89A7C689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8FB2C11-7925-45D9-AF49-0D3C89A7C689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FB2C11-7925-45D9-AF49-0D3C89A7C689}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
