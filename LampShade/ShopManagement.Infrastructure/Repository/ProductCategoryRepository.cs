@@ -1,4 +1,5 @@
 ﻿using System.Linq.Expressions;
+using _0_Framework.Application;
 using _0_Framework.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using ShopManagement.Application.Contracts.ProductCategory;
@@ -47,7 +48,7 @@ namespace ShopManagement.Infrastructure.Repository
             var query = _Context.ProductCategories.Select(x => new ProductCategoryViewModel
             {
                 Id = x.Id,
-                CreationDate = x.CreationDate.ToString(),
+                CreationDate = x.CreationDate.ToFarsi(),
                 Name = x.Name,
                 Picture = x.Picture,
             });

@@ -148,3 +148,13 @@ D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\obj\Debug\net6.0\S
 D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\obj\Debug\net6.0\ref\ServiceHost.dll
 D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\01-LampShadeQuery.dll
 D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\01-LampShadeQuery.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\DiscountManagement.Application.Contract.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\DiscountManagement.Application.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\DiscountManagement.Configuration.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\DiscountManagement.Domain.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\DiscountManagement.Infrastructure.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\DiscountManagement.Configuration.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\DiscountManagement.Application.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\DiscountManagement.Application.Contract.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\DiscountManagement.Domain.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\DiscountManagement.Infrastructure.pdb

@@ -60,7 +60,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                     CategoryId = x.CategoryId,
                     Code = x.Code,
                     Picture = x.Picture,
-                    CreationDate = x.CreationDate.ToString(),
+                    CreationDate = x.CreationDate.ToFarsi(),
                     IsInStock = x.IsInStock,
                     UniPrice = x.UniPrice
                 });
