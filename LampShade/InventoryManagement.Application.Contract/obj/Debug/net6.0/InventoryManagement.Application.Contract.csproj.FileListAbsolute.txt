@@ -1,0 +1,17 @@
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\bin\Debug\net6.0\InventoryManagement.Application.Contract.deps.json
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\bin\Debug\net6.0\InventoryManagement.Application.Contract.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\bin\Debug\net6.0\0_Framework.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\bin\Debug\net6.0\ShopManagement.Application.Contracts.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\bin\Debug\net6.0\0_Framework.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.csproj.AssemblyReference.cache
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.AssemblyInfoInputs.cache
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.AssemblyInfo.cs
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.csproj.CoreCompileInputs.cache
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.csproj.CopyComplete
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\obj\Debug\net6.0\refint\InventoryManagement.Application.Contract.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application.Contract\obj\Debug\net6.0\ref\InventoryManagement.Application.Contract.dll

@@ -1,4 +1,5 @@
 using DiscountManagement.Configuration;
+using InventoryManagement.Infrastructure.Configuration;
 using ShopManagement.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,7 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("LampShadeDb");
 ShopManagmentBoostrapper.Configure(builder.Services, connectionString);
-DiscountManagementBootstrapper.Configure(builder.Services,connectionString);
+DiscountManagementBootstrapper.Configure(builder.Services, connectionString);
+InventoryManagementBootstrapper.Configure(builder.Services, connectionString);
 builder.Services.AddRazorPages();
 
 var app = builder.Build();
