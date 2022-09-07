@@ -166,3 +166,5 @@ D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\I
 D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
 D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\InventoryManagement.Domain.pdb
 D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\InventoryManagement.Infrastructure.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.pdb

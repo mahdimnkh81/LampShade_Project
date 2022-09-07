@@ -20,21 +20,7 @@ namespace ShopManagement.Application
             _productCategoryRepository = productCategoryRepository;
         }
 
-        public OperationResult NotInStock(long id)
-        {
-            var product = _productRepository.Get(id);
-            var op=product.NOTInStock();
-            _productRepository.SaveChanges();
-            return op;
-        }
 
-        public OperationResult ISInStock(long id)
-        {
-            var product = _productRepository.Get(id);
-            var op = product.InStock();
-            _productRepository.SaveChanges();
-            return op;
-        }
 
         public OperationResult Create(CreateProduct command)
         {
@@ -45,7 +31,7 @@ namespace ShopManagement.Application
             var slug = command.Slug.Slugify();
 
             var product = new Product(command.Name, command.Code,
-                command.UnitPrice, command.ShortDescription, command.Description,
+                 command.ShortDescription, command.Description,
                 command.Picture, command.PictureAlt,command.PictureTitle, command.CategoryId, slug,
                 command.Keywords, command.MetaDescription);
             _productRepository.Create(product);
@@ -67,7 +53,7 @@ namespace ShopManagement.Application
             var path = $"{product.Category.Slug}/{slug}";
 
             
-            product.Edit(command.Name, command.Code,command.UnitPrice,
+            product.Edit(command.Name, command.Code,
                 command.ShortDescription, command.Description, command.Picture,
                 command.PictureAlt, command.PictureTitle, command.CategoryId, slug,
                 command.Keywords, command.MetaDescription);
