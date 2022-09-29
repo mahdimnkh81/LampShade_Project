@@ -1,4 +1,6 @@
-﻿namespace _01_LampshadeQuery.Contracts.ProductCategory
+﻿using _01_LampshadeQuery.Contracts.Product;
+
+namespace _01_LampshadeQuery.Contracts.ProductCategory
 {
     public class ProductCategoryQueryModel
     {
@@ -11,5 +13,6 @@
         public string Keywords { get; set; }
         public string MetaDescription { get; set; }
         public string Description { get; set; }
+        public List<ProductQueryModel> Products { get; set; }
     }
 }

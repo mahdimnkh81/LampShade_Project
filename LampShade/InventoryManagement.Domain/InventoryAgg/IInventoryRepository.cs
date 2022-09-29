@@ -1,5 +1,6 @@
 ﻿using _0_Framework.Domain;
 using InventoryManagement.Application.Contract.Inventory;
+using System.Collections.Generic;
 
 namespace InventoryManagement.Domain.InventoryAgg
 {

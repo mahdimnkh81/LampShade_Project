@@ -46,3 +46,15 @@ D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\o
 D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\obj\Debug\net6.0\ref\ShopManagement.Configuration.dll
 D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net6.0\01-LampShadeQuery.dll
 D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net6.0\01-LampShadeQuery.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Application.Contract.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Domain.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Infrastructure.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Domain.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Infrastructure.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net6.0\DiscountManagement.Application.Contract.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net6.0\DiscountManagement.Domain.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net6.0\DiscountManagement.Infrastructure.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net6.0\DiscountManagement.Application.Contract.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net6.0\DiscountManagement.Domain.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net6.0\DiscountManagement.Infrastructure.pdb
