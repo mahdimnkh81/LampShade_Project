@@ -48,5 +48,13 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
 
             return query.OrderByDescending(x => x.Id).ToList();
         }
+
+        public ProductPicture GetWithProductAndCategoryBy(long id)
+        {
+            return _context.ProductPictures
+                .Include(x => x.Product).
+                ThenInclude(x => x.Category)
+                .FirstOrDefault(x => x.Id == id);
+        }
     }
 }

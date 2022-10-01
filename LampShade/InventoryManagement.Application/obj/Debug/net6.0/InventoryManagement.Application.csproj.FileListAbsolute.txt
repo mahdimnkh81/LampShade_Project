@@ -1,8 +1,3 @@
-D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\obj\Debug\net6.0\InventoryManagement.Application.csproj.AssemblyReference.cache
-D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\obj\Debug\net6.0\InventoryManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
-D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\obj\Debug\net6.0\InventoryManagement.Application.AssemblyInfoInputs.cache
-D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\obj\Debug\net6.0\InventoryManagement.Application.AssemblyInfo.cs
-D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\obj\Debug\net6.0\InventoryManagement.Application.csproj.CoreCompileInputs.cache
 D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\bin\Debug\net6.0\InventoryManagement.Application.deps.json
 D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\bin\Debug\net6.0\InventoryManagement.Application.dll
 D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\bin\Debug\net6.0\InventoryManagement.Application.pdb
@@ -14,6 +9,11 @@ D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Applicatio
 D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\bin\Debug\net6.0\InventoryManagement.Domain.pdb
 D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\bin\Debug\net6.0\0_Framework.pdb
 D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\obj\Debug\net6.0\InventoryManagement.Application.csproj.AssemblyReference.cache
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\obj\Debug\net6.0\InventoryManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\obj\Debug\net6.0\InventoryManagement.Application.AssemblyInfoInputs.cache
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\obj\Debug\net6.0\InventoryManagement.Application.AssemblyInfo.cs
+D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\obj\Debug\net6.0\InventoryManagement.Application.csproj.CoreCompileInputs.cache
 D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\obj\Debug\net6.0\InventoryManagement.Application.csproj.CopyComplete
 D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\obj\Debug\net6.0\InventoryManagement.Application.dll
 D:\.NetCore\LampShade\LampShade_Project\LampShade\InventoryManagement.Application\obj\Debug\net6.0\refint\InventoryManagement.Application.dll

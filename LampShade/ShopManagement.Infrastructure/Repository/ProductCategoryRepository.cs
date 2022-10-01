@@ -22,8 +22,8 @@ namespace ShopManagement.Infrastructure.Repository
         {
             return _Context.ProductCategories.Select(x => new ProductCategoryViewModel
             {
-                Id=x.Id,
-                Name=x.Name
+                Id = x.Id,
+                Name = x.Name
             }).ToList();
         }
 
@@ -38,9 +38,14 @@ namespace ShopManagement.Infrastructure.Repository
                 Keywords = x.Keywords,
                 PictureAlt = x.PictureAlt,
                 MetaDescription = x.MetaDescription,
-                Picture = x.Picture,
+                // Picture = x.Picture,
                 PictureTitle = x.PictureTitle
             }).FirstOrDefault(x => x.Id == id);
+        }
+
+        public string GetCategorySlugBy(long id)
+        {
+            return _Context.ProductCategories.Select(x => new { x.Slug, x.Id }).FirstOrDefault(x => x.Id == id).Slug;
         }
 
         public List<ProductCategoryViewModel> Search(ProductCategorySearchModel command)

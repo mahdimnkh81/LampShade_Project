@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Hv6Ndy+QYXpJkFARt+4p7A3bvDxsdYBJDVQoQYvgGb8=",
+  "Hash": "AGnJDGbni9UozNyEA1GfGuxAs7t+Zd4wIDQ7Mhgzs68=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -6477,40 +6477,6 @@
       "OriginalItemSpec": "wwwroot\\ProductPictures\\Product08.jpg"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\Product09.jpg",
-      "SourceId": "ServiceHost",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
-      "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/Product09.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\Product09.jpg"
-    },
-    {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\Product10.jpg",
-      "SourceId": "ServiceHost",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
-      "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/Product10.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\Product10.jpg"
-    },
-    {
       "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\Product11.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
@@ -6647,12 +6613,12 @@
       "OriginalItemSpec": "wwwroot\\ProductPictures\\slides\\2020-08-10-17-23-52-slider2.jpg"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\اتاق-خواب\\img4-top-eposi1.jpg",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\slides\\2022-10-01-23-56-07-2020-08-10-17-23-52-slider2.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/اتاق-خواب/img4-top-eposi1.jpg",
+      "RelativePath": "ProductPictures/slides/2022-10-01-23-56-07-2020-08-10-17-23-52-slider2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6661,15 +6627,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\اتاق-خواب\\img4-top-eposi1.jpg"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\slides\\2022-10-01-23-56-07-2020-08-10-17-23-52-slider2.jpg"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\اخبار-شرکت\\2020-08-13-12-21-05-dark_logo1.jpg",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\تلویزیون\\2022-10-01-21-50-34-download (2).jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/اخبار-شرکت/2020-08-13-12-21-05-dark_logo1.jpg",
+      "RelativePath": "ProductPictures/تلویزیون/2022-10-01-21-50-34-download (2).jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6678,15 +6644,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\اخبار-شرکت\\2020-08-13-12-21-05-dark_logo1.jpg"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\تلویزیون\\2022-10-01-21-50-34-download (2).jpg"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\اخبار-شرکت\\2020-08-16-15-42-07-news.png",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\لوستر\\2022-10-01-21-49-49-download.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/اخبار-شرکت/2020-08-16-15-42-07-news.png",
+      "RelativePath": "ProductPictures/لوستر/2022-10-01-21-49-49-download.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6695,15 +6661,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\اخبار-شرکت\\2020-08-16-15-42-07-news.png"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\لوستر\\2022-10-01-21-49-49-download.jpg"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\اخبار-شرکت\\بهترین-استفاده-از-فضای-خانه\\2020-08-16-13-24-17-article 3.jpg",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\لوستر\\product03.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/اخبار-شرکت/بهترین-استفاده-از-فضای-خانه/2020-08-16-13-24-17-article 3.jpg",
+      "RelativePath": "ProductPictures/لوستر/product03.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6712,15 +6678,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\اخبار-شرکت\\بهترین-استفاده-از-فضای-خانه\\2020-08-16-13-24-17-article 3.jpg"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\لوستر\\product03.jpg"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\اخبار-شرکت\\مقاله-مربوط-به-اخبار-مالی-شرکت\\2020-08-16-13-16-55-article 2.jpg",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\لوستر\\لوستر-تک-شعله-مدل-شکوفه\\2022-10-01-22-37-35-1_KpDOKMFAgDWaGTQHL0r70g.png",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/اخبار-شرکت/مقاله-مربوط-به-اخبار-مالی-شرکت/2020-08-16-13-16-55-article 2.jpg",
+      "RelativePath": "ProductPictures/لوستر/لوستر-تک-شعله-مدل-شکوفه/2022-10-01-22-37-35-1_KpDOKMFAgDWaGTQHL0r70g.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6729,15 +6695,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\اخبار-شرکت\\مقاله-مربوط-به-اخبار-مالی-شرکت\\2020-08-16-13-16-55-article 2.jpg"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\لوستر\\لوستر-تک-شعله-مدل-شکوفه\\2022-10-01-22-37-35-1_KpDOKMFAgDWaGTQHL0r70g.png"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\اخبار-شرکت\\مقاله-مربوط-به-اخبار-مالی-شرکت\\2020-08-16-13-21-46-article 2.jpg",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\لوستر\\لوستر-تک-شعله-مدل-شکوفه\\2022-10-01-23-39-41-0_bbTnCsiT0klMbi3q.png",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/اخبار-شرکت/مقاله-مربوط-به-اخبار-مالی-شرکت/2020-08-16-13-21-46-article 2.jpg",
+      "RelativePath": "ProductPictures/لوستر/لوستر-تک-شعله-مدل-شکوفه/2022-10-01-23-39-41-0_bbTnCsiT0klMbi3q.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6746,15 +6712,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\اخبار-شرکت\\مقاله-مربوط-به-اخبار-مالی-شرکت\\2020-08-16-13-21-46-article 2.jpg"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\لوستر\\لوستر-تک-شعله-مدل-شکوفه\\2022-10-01-23-39-41-0_bbTnCsiT0klMbi3q.png"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\اخبار-شرکت\\نحوه-چیدمان-دکوراسیون-خانه\\2020-08-16-11-10-33-article1.jpg",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\2020-08-24-18-28-35-me.jpeg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/اخبار-شرکت/نحوه-چیدمان-دکوراسیون-خانه/2020-08-16-11-10-33-article1.jpg",
+      "RelativePath": "ProductPictures/مبل/2020-08-24-18-28-35-me.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6763,15 +6729,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\اخبار-شرکت\\نحوه-چیدمان-دکوراسیون-خانه\\2020-08-16-11-10-33-article1.jpg"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\2020-08-24-18-28-35-me.jpeg"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\دکوری\\2020-08-09-19-32-01-img3-top-eposi1.jpg",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\2020-09-28-14-36-53-user1.png",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/دکوری/2020-08-09-19-32-01-img3-top-eposi1.jpg",
+      "RelativePath": "ProductPictures/مبل/2020-09-28-14-36-53-user1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6780,15 +6746,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\دکوری\\2020-08-09-19-32-01-img3-top-eposi1.jpg"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\2020-09-28-14-36-53-user1.png"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-آرتین-مدل-adt\\2020-09-28-13-08-09-121802268.jpg",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\2020-09-28-14-37-17-user1.png",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/دکوری/صندلی-پاف-آرتین-مدل-adt/2020-09-28-13-08-09-121802268.jpg",
+      "RelativePath": "ProductPictures/مبل/2020-09-28-14-37-17-user1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6797,15 +6763,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-آرتین-مدل-adt\\2020-09-28-13-08-09-121802268.jpg"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\2020-09-28-14-37-17-user1.png"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-آرتین-مدل-adt\\2020-09-28-13-08-40-121802289.jpg",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\2022-10-01-21-45-30-Data-Structure-tutorial-MSA-Technosoft.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/دکوری/صندلی-پاف-آرتین-مدل-adt/2020-09-28-13-08-40-121802289.jpg",
+      "RelativePath": "ProductPictures/مبل/2022-10-01-21-45-30-Data-Structure-tutorial-MSA-Technosoft.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6814,15 +6780,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-آرتین-مدل-adt\\2020-09-28-13-08-40-121802289.jpg"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\2022-10-01-21-45-30-Data-Structure-tutorial-MSA-Technosoft.jpg"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-آرتین-مدل-adt\\2020-09-28-13-08-46-121802285.jpg",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\2022-10-01-21-53-35-download (3).jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/دکوری/صندلی-پاف-آرتین-مدل-adt/2020-09-28-13-08-46-121802285.jpg",
+      "RelativePath": "ProductPictures/مبل/2022-10-01-21-53-35-download (3).jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6831,15 +6797,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-آرتین-مدل-adt\\2020-09-28-13-08-46-121802285.jpg"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\2022-10-01-21-53-35-download (3).jpg"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-آرتین-مدل-adt\\2020-09-28-13-08-50-121802275.jpg",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\2022-10-01-21-57-58-download (3).jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/دکوری/صندلی-پاف-آرتین-مدل-adt/2020-09-28-13-08-50-121802275.jpg",
+      "RelativePath": "ProductPictures/مبل/2022-10-01-21-57-58-download (3).jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6848,15 +6814,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-آرتین-مدل-adt\\2020-09-28-13-08-50-121802275.jpg"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\2022-10-01-21-57-58-download (3).jpg"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-1\\2020-08-11-11-34-07-sample.png",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\2022-10-01-22-01-42-download.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/دکوری/صندلی-پاف-مدل-1/2020-08-11-11-34-07-sample.png",
+      "RelativePath": "ProductPictures/مبل/2022-10-01-22-01-42-download.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6865,15 +6831,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-1\\2020-08-11-11-34-07-sample.png"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\2022-10-01-22-01-42-download.jpg"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-1\\2020-08-11-11-34-17-sample.png",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\appsettings.Development.json",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/دکوری/صندلی-پاف-مدل-1/2020-08-11-11-34-17-sample.png",
+      "RelativePath": "ProductPictures/مبل/appsettings.Development.json",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6882,15 +6848,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-1\\2020-08-11-11-34-17-sample.png"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\appsettings.Development.json"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-2\\2020-08-10-12-40-39-product02.jpg",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\appsettings.json",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/دکوری/صندلی-پاف-مدل-2/2020-08-10-12-40-39-product02.jpg",
+      "RelativePath": "ProductPictures/مبل/appsettings.json",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6899,15 +6865,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-2\\2020-08-10-12-40-39-product02.jpg"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\appsettings.json"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-2\\2020-08-10-17-11-20-sample.png",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\devenv.exe",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/دکوری/صندلی-پاف-مدل-2/2020-08-10-17-11-20-sample.png",
+      "RelativePath": "ProductPictures/مبل/devenv.exe",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6916,15 +6882,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-2\\2020-08-10-17-11-20-sample.png"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\devenv.exe"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-2\\2020-08-10-17-14-18-sample.png",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\download (1).jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/دکوری/صندلی-پاف-مدل-2/2020-08-10-17-14-18-sample.png",
+      "RelativePath": "ProductPictures/مبل/download (1).jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6933,15 +6899,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-2\\2020-08-10-17-14-18-sample.png"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\download (1).jpg"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-2\\2020-08-11-11-33-14-sample.png",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\download.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/دکوری/صندلی-پاف-مدل-2/2020-08-11-11-33-14-sample.png",
+      "RelativePath": "ProductPictures/مبل/download.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6950,15 +6916,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-2\\2020-08-11-11-33-14-sample.png"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\download.jpg"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-2\\2020-08-11-11-33-38-sample.png",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\product02.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/دکوری/صندلی-پاف-مدل-2/2020-08-11-11-33-38-sample.png",
+      "RelativePath": "ProductPictures/مبل/product02.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6967,15 +6933,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-2\\2020-08-11-11-33-38-sample.png"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\product02.jpg"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-2\\2020-08-11-11-33-56-sample.png",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\Product05.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/دکوری/صندلی-پاف-مدل-2/2020-08-11-11-33-56-sample.png",
+      "RelativePath": "ProductPictures/مبل/Product05.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6984,15 +6950,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-مدل-2\\2020-08-11-11-33-56-sample.png"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\Product05.jpg"
     },
     {
-      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\فضای-نگهدارنده\\img1-top-eposi1.jpg",
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\Product06.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/فضای-نگهدارنده/img1-top-eposi1.jpg",
+      "RelativePath": "ProductPictures/مبل/Product06.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7001,7 +6967,58 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\فضای-نگهدارنده\\img1-top-eposi1.jpg"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\Product06.jpg"
+    },
+    {
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\Product11.jpg",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProductPictures/مبل/Product11.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\Product11.jpg"
+    },
+    {
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\Program.cs",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProductPictures/مبل/Program.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\Program.cs"
+    },
+    {
+      "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\مبل\\Startup.cs",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProductPictures/مبل/Startup.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\مبل\\Startup.cs"
     },
     {
       "Identity": "D:\\.NetCore\\LampShade\\LampShade_Project\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\css\\Custom.css",

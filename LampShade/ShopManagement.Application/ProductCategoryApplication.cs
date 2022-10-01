@@ -1,6 +1,4 @@
-﻿using System.Data.SqlTypes;
-using System.Security.Cryptography.X509Certificates;
-using _0_Framework.Application;
+﻿using _0_Framework.Application;
 using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Domain.ProductCategoryAgg;
 
@@ -8,63 +6,73 @@ namespace ShopManagement.Application
 {
     public class ProductCategoryApplication : IProductCategoryApplication
     {
-        public IProductCategoryRepository _ProductCategoryRepository { get; set; }
+        private IFileUploader _fileUploader;
+        private IProductCategoryRepository _productCategoryRepository { get; set; }
 
-        public ProductCategoryApplication(IProductCategoryRepository productCategoryRepository)
+        public ProductCategoryApplication(IProductCategoryRepository productCategoryRepository,
+            IFileUploader fileUploader)
         {
-            _ProductCategoryRepository = productCategoryRepository;
+            _productCategoryRepository = productCategoryRepository;
+            _fileUploader = fileUploader;
         }
 
         public List<ProductCategoryViewModel> GetProductCategories()
         {
-            return _ProductCategoryRepository.GetProductCategories();
+            return _productCategoryRepository.GetProductCategories();
         }
 
         public OperationResult Create(CreateProductCategory command)
         {
-            var Operation = new OperationResult();
-            if (_ProductCategoryRepository.Exists(x => x.Name == command.Name))
-            {
-                return Operation.Failed("امکان ثبت رکورد تکراری وجود ندارد.دوباره سعی کنید");
-            }
+            var operation = new OperationResult();
+            if (_productCategoryRepository.Exists(x => x.Name == command.Name))
+                return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
-            var slug = GenerateSlug.Slugify(command.Slug);
-            var productCategory = new ProductCategory(command.Name, command.Description, command.Picture,
-                command.PictureTitle, command.PictureAlt, slug, command.Keywords, command.MetaDescription);
-            _ProductCategoryRepository.Create(productCategory);
-            _ProductCategoryRepository.SaveChanges();
-            return Operation.Succedded();
+            var slug = command.Slug.Slugify();
+
+            var picturePath = $"{command.Slug}";
+            var pictureName = _fileUploader.Upload(command.Picture, picturePath);
+
+            var productCategory = new ProductCategory(command.Name, command.Description,
+                pictureName, command.PictureAlt, command.PictureTitle, command.Keywords,
+                command.MetaDescription, slug);
+
+            _productCategoryRepository.Create(productCategory);
+            _productCategoryRepository.SaveChanges();
+            return operation.Succedded();
         }
 
         public OperationResult Edit(EditProductCategory command)
         {
             var operation = new OperationResult();
-            var productCategory = _ProductCategoryRepository.Get(command.Id);
+            var productCategory = _productCategoryRepository.Get(command.Id);
             if (productCategory == null)
             {
                 return operation.Failed("همچین رکوردی وجود ندارد ");
             }
 
-            if (_ProductCategoryRepository.Exists(x => x.Name == command.Name && x.Id != command.Id))
+            if (_productCategoryRepository.Exists(x => x.Name == command.Name && x.Id != command.Id))
             {
                 return operation.Failed("امکان ثبت رکورد تکراری وجود ندارد.دوباره سعی کنید");
             }
 
+            var picturePath = $"{command.Slug}";
+            var filename = _fileUploader.Upload(command.Picture, picturePath);
+
             var slug = GenerateSlug.Slugify(command.Slug);
-            productCategory.Edit(command.Name, command.Description, command.Picture, command.PictureTitle,
+            productCategory.Edit(command.Name, command.Description, filename, command.PictureTitle,
                 command.PictureAlt, slug, command.Keywords, command.MetaDescription);
-            _ProductCategoryRepository.SaveChanges();
+            _productCategoryRepository.SaveChanges();
             return operation.Succedded();
         }
 
         public List<ProductCategoryViewModel> Search(ProductCategorySearchModel command)
         {
-            return _ProductCategoryRepository.Search(command);
+            return _productCategoryRepository.Search(command);
         }
 
         public EditProductCategory GetDetails(long id)
         {
-            return _ProductCategoryRepository.GetDetails(id);
+            return _productCategoryRepository.GetDetails(id);
         }
     }
 }

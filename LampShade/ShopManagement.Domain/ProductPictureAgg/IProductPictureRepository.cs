@@ -1,6 +1,6 @@
 ﻿using _0_Framework.Domain;
 using ShopManagement.Application.Contracts.ProductPicture;
-using System.Collections.Generic;
+
 
 namespace ShopManagement.Domain.ProductPictureAgg
 {
@@ -8,5 +8,6 @@ namespace ShopManagement.Domain.ProductPictureAgg
     {
         EditProductPicture GetDetails(long id);
         List<ProductPictureViewModel> Search(ProductPictureSearchModel searchModel);
+        ProductPicture GetWithProductAndCategoryBy(long id);
     }
 }

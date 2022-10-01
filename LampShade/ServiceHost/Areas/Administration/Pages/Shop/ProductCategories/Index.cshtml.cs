@@ -6,6 +6,7 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.ProductCategory
 {
     public class IndexModel : PageModel
     {
+
         public List<ProductCategoryViewModel> ProductCategories { get; set; }
         public ProductCategorySearchModel SearchModel { get; set; }
         public IProductCategoryApplication _productCategoryApplication { get; set; }
@@ -42,6 +43,11 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.ProductCategory
 
         public JsonResult OnPostEdit(EditProductCategory command)
         {
+
+            if (ModelState.IsValid)
+            {
+
+            }
             var result = _productCategoryApplication.Edit(command);
             return new JsonResult(result);
         }

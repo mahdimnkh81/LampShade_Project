@@ -34,6 +34,12 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
             }).FirstOrDefault(x => x.Id == id);
         }
 
+        public Product GetProductWithCategoryBy(long id)
+        {
+            return _context.Products.Include(x => x.Category).FirstOrDefault(x => x.Id == id);
+        }
+
+
         public List<ProductViewModel> GetProducts()
         {
             return _context.Products.Select(x => new ProductViewModel
@@ -61,7 +67,6 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                     Code = x.Code,
                     Picture = x.Picture,
                     CreationDate = x.CreationDate.ToFarsi()
-                    
                 });
 
             if (!string.IsNullOrWhiteSpace(searchModel.Name))
