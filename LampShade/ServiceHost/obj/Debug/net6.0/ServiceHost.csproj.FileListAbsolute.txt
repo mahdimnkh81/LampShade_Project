@@ -169,3 +169,13 @@ D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\obj\Debug\net6.0\r
 D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\obj\Debug\net6.0\ServiceHost.pdb
 D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\obj\Debug\net6.0\ServiceHost.genruntimeconfig.cache
 D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\obj\Debug\net6.0\ref\ServiceHost.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\BlogManagement.Application.Contract.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\BlogManagement.Application.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\BlogManagement.Domain.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\BlogManagement.Infrastructure.Configuration.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\BlogManagement.Infrastructure.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\BlogManagement.Infrastructure.Configuration.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\BlogManagement.Application.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\BlogManagement.Application.Contract.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\BlogManagement.Domain.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\ServiceHost\bin\Debug\net6.0\BlogManagement.Infrastructure.pdb

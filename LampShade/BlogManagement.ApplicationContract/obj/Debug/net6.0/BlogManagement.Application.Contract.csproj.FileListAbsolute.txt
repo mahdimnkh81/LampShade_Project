@@ -1,0 +1,15 @@
+D:\.NetCore\LampShade\LampShade_Project\LampShade\BlogManagement.ApplicationContract\bin\Debug\net6.0\BlogManagement.Application.Contract.deps.json
+D:\.NetCore\LampShade\LampShade_Project\LampShade\BlogManagement.ApplicationContract\bin\Debug\net6.0\BlogManagement.Application.Contract.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\BlogManagement.ApplicationContract\bin\Debug\net6.0\BlogManagement.Application.Contract.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\BlogManagement.ApplicationContract\bin\Debug\net6.0\0_Framework.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\BlogManagement.ApplicationContract\bin\Debug\net6.0\0_Framework.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\BlogManagement.ApplicationContract\obj\Debug\net6.0\BlogManagement.Application.Contract.csproj.AssemblyReference.cache
+D:\.NetCore\LampShade\LampShade_Project\LampShade\BlogManagement.ApplicationContract\obj\Debug\net6.0\BlogManagement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCore\LampShade\LampShade_Project\LampShade\BlogManagement.ApplicationContract\obj\Debug\net6.0\BlogManagement.Application.Contract.AssemblyInfoInputs.cache
+D:\.NetCore\LampShade\LampShade_Project\LampShade\BlogManagement.ApplicationContract\obj\Debug\net6.0\BlogManagement.Application.Contract.AssemblyInfo.cs
+D:\.NetCore\LampShade\LampShade_Project\LampShade\BlogManagement.ApplicationContract\obj\Debug\net6.0\BlogManagement.Application.Contract.csproj.CoreCompileInputs.cache
+D:\.NetCore\LampShade\LampShade_Project\LampShade\BlogManagement.ApplicationContract\obj\Debug\net6.0\BlogManagement.Application.Contract.csproj.CopyComplete
+D:\.NetCore\LampShade\LampShade_Project\LampShade\BlogManagement.ApplicationContract\obj\Debug\net6.0\BlogManagement.Application.Contract.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\BlogManagement.ApplicationContract\obj\Debug\net6.0\refint\BlogManagement.Application.Contract.dll
+D:\.NetCore\LampShade\LampShade_Project\LampShade\BlogManagement.ApplicationContract\obj\Debug\net6.0\BlogManagement.Application.Contract.pdb
+D:\.NetCore\LampShade\LampShade_Project\LampShade\BlogManagement.ApplicationContract\obj\Debug\net6.0\ref\BlogManagement.Application.Contract.dll

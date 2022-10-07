@@ -196,6 +196,7 @@ jQuery.validator.addMethod("maxFileSize",
     });
 jQuery.validator.unobtrusive.adapters.addBool("maxFileSize");
 
+
 jQuery.validator.addMethod("fileExtentionLimit",
     function (value, element, param) {
         param = typeof param === "string" ? param.replace(/,/g, '|') : "png|jpg|jpeg";
